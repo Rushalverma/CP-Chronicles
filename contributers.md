@@ -37,6 +37,7 @@
 | Siddhant Shekhar       | sshekhar563             | United University                                                |
 | Ayush Saha             | verifiedHuman18         | IIIT Allahabad                                                   |  
 | Khushi Shorey          | khushishorey            | IIIT Allahabad |
+| Nitin Kumar          | Nitinkr03          | IIIT Allahabad 
 | Manisha katariya       | chanchukatariya5        | IIIT Allahabad                                                   |
 | Ronak Goyal            | ronakgoyal1             | IIIT Allahabad                                                   |
 | Sayed Al Amaan Zaidi           | amaan1114           | Rishihood University                                   |

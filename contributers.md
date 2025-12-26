@@ -45,6 +45,7 @@
 | Ronak Goyal            | ronakgoyal1             | IIIT Allahabad                                                   |
 | Sayed Al Amaan Zaidi           | amaan1114           | Rishihood University                                   |
 | Somesh Pawan Kamad      | Entropy-rgb         | IIIT Hyderabad                                                |
+|Kunwar Gaba | kunwargaba10 |IIIT Allahabad|
 | Roshan Gupta           | roshangupta4804-hue        | IIIT Allahabad  
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->

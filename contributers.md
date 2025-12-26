@@ -46,6 +46,7 @@
 | Sayed Al Amaan Zaidi           | amaan1114           | Rishihood University                                   |
 | Somesh Pawan Kamad      | Entropy-rgb         | IIIT Hyderabad                                                |
 |Kunwar Gaba | kunwargaba10 |IIIT Allahabad|
-| Roshan Gupta           | roshangupta4804-hue        | IIIT Allahabad  
+| Roshan Gupta           | roshangupta4804-hue        | IIIT Allahabad  |
+|Vishal|Cosmic-Viz|IIIT Allahabad|
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->

@@ -52,6 +52,6 @@
 | Harsh Garg             | gargharsh182005-lab      | IIIT Allahabad                                                  |
 | Lakshmish            | Coldesy             | IIIT Allahabad 
 |Priyanshu Ranjan        | justpriyanshu            | BIT Mesra
-
+| Atharva Mehta          | Atharva-insane           |  IIIT Allahabad                                                  |                                               
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->

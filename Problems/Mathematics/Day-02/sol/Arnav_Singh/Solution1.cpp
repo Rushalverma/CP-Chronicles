@@ -41,3 +41,4 @@ int main() {
     return 0;
 }
 //time complexity O(nlogn)
+//https://codeforces.com/problemset/submission/1771/355443489
